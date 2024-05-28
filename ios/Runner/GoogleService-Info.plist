@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAPSh0IT4xyORQaYtX8OSL4USwSaeKZMZY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>854615514195</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.testPkl</string>
+	<key>PROJECT_ID</key>
+	<string>auth-project-59004</string>
+	<key>STORAGE_BUCKET</key>
+	<string>auth-project-59004.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:854615514195:ios:cb9a2e256c16439aa7baa6</string>
+	<key>DATABASE_URL</key>
+	<string>https://auth-project-59004-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
